@@ -1,1 +1,1 @@
-![Control panel](/1.png)
+![Control panel](/1.png) 
